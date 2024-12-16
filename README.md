@@ -1,1 +1,1 @@
-This is a SPOTIFY CLONE
+This is a SPOTIFY CLONE.
